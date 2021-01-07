@@ -1,0 +1,273 @@
+{
+  "message": {
+    "Accelerometer": [
+      {
+        "timestamp": "2020-11-24T21:23:03.172",
+        "temperature": 1763.5094993457888,
+        "humidity": 65.7648369593772,
+        "illumination": 10223.56339857296,
+        "Accelerometer x-axis (g)": "-0.091",
+        "Accelerometer y-axis (g)": "-0.011",
+        "Accelerometerz-axis (g)": "1.004",
+        "Accelerometer Pitch": "95.18569411",
+        "Accelerometer Roll": "90.63183065",
+        "long": -122.13793655768735,
+        "lat": 37.654085232336065
+      },
+      {
+        "timestamp": "2020-11-24T21:23:03.172",
+        "temperature": 417.5650762680184,
+        "humidity": 70.05352757495754,
+        "illumination": 9361.739396042018,
+        "Accelerometer x-axis (g)": "-0.091",
+        "Accelerometer y-axis (g)": "-0.011",
+        "Accelerometerz-axis (g)": "1.004",
+        "Accelerometer Pitch": "95.18569411",
+        "Accelerometer Roll": "90.63183065",
+        "long": -121.94834439057536,
+        "lat": 37.91170817758369
+      },
+      {
+        "timestamp": "2020-11-24T21:23:03.172",
+        "temperature": 843.8974440408523,
+        "humidity": 82.61105814874746,
+        "illumination": 19963.844488305636,
+        "Accelerometer x-axis (g)": "-0.091",
+        "Accelerometer y-axis (g)": "-0.011",
+        "Accelerometerz-axis (g)": "1.004",
+        "Accelerometer Pitch": "95.18569411",
+        "Accelerometer Roll": "90.63183065",
+        "long": -122.77549339379136,
+        "lat": 37.73836016879335
+      },
+      {
+        "timestamp": "2020-11-24T21:23:03.172",
+        "temperature": 1586.6574602820697,
+        "humidity": 68.39422636672683,
+        "illumination": 15614.343600623082,
+        "Accelerometer x-axis (g)": "-0.091",
+        "Accelerometer y-axis (g)": "-0.011",
+        "Accelerometerz-axis (g)": "1.004",
+        "Accelerometer Pitch": "95.18569411",
+        "Accelerometer Roll": "90.63183065",
+        "long": -122.66198771464174,
+        "lat": 37.84589534016074
+      },
+      {
+        "timestamp": "2020-11-24T21:23:03.172",
+        "temperature": 1387.0885322834174,
+        "humidity": 60.415074818887256,
+        "illumination": 2961.828439941616,
+        "Accelerometer x-axis (g)": "-0.091",
+        "Accelerometer y-axis (g)": "-0.011",
+        "Accelerometerz-axis (g)": "1.004",
+        "Accelerometer Pitch": "95.18569411",
+        "Accelerometer Roll": "90.63183065",
+        "long": -122.45802603730631,
+        "lat": 38.183494218745324
+      },
+      {
+        "timestamp": "2020-11-24T21:23:03.172",
+        "temperature": 967.1829178373833,
+        "humidity": 87.75757868483757,
+        "illumination": 16463.426872223405,
+        "Accelerometer x-axis (g)": "-0.091",
+        "Accelerometer y-axis (g)": "-0.011",
+        "Accelerometerz-axis (g)": "1.004",
+        "Accelerometer Pitch": "95.18569411",
+        "Accelerometer Roll": "90.63183065",
+        "long": -122.55644581440004,
+        "lat": 38.092264260291046
+      },
+      {
+        "timestamp": "2020-11-24T21:23:03.172",
+        "temperature": 299.7041674024717,
+        "humidity": 62.19948617829899,
+        "illumination": 7008.939701400499,
+        "Accelerometer x-axis (g)": "-0.091",
+        "Accelerometer y-axis (g)": "-0.011",
+        "Accelerometerz-axis (g)": "1.004",
+        "Accelerometer Pitch": "95.18569411",
+        "Accelerometer Roll": "90.63183065",
+        "long": -122.60181273134573,
+        "lat": 37.885716428739684
+      },
+      {
+        "timestamp": "2020-11-24T21:23:03.172",
+        "temperature": 983.2929489360466,
+        "humidity": 73.40914391794482,
+        "illumination": 19048.49300533052,
+        "Accelerometer x-axis (g)": "-0.091",
+        "Accelerometer y-axis (g)": "-0.011",
+        "Accelerometerz-axis (g)": "1.004",
+        "Accelerometer Pitch": "95.18569411",
+        "Accelerometer Roll": "90.63183065",
+        "long": -122.29314184936091,
+        "lat": 37.62572936767086
+      },
+      {
+        "timestamp": "2020-11-24T21:23:03.172",
+        "temperature": 1660.7830706185237,
+        "humidity": 70.65958476219005,
+        "illumination": 8098.27284353604,
+        "Accelerometer x-axis (g)": "-0.091",
+        "Accelerometer y-axis (g)": "-0.011",
+        "Accelerometerz-axis (g)": "1.004",
+        "Accelerometer Pitch": "95.18569411",
+        "Accelerometer Roll": "90.63183065",
+        "long": -122.28873307527736,
+        "lat": 37.89658232816834
+      },
+      {
+        "timestamp": "2020-11-24T21:23:03.172",
+        "temperature": 1424.9548581327965,
+        "humidity": 66.03854083504389,
+        "illumination": 13437.553245392033,
+        "Accelerometer x-axis (g)": "-0.091",
+        "Accelerometer y-axis (g)": "-0.011",
+        "Accelerometerz-axis (g)": "1.004",
+        "Accelerometer Pitch": "95.18569411",
+        "Accelerometer Roll": "90.63183065",
+        "long": -122.48152938594525,
+        "lat": 38.26570492637119
+      }
+    ]
+  },
+  "input": {
+    "resource": "/item",
+    "path": "/item",
+    "httpMethod": "GET",
+    "headers": {
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "CloudFront-Forwarded-Proto": "https",
+      "CloudFront-Is-Desktop-Viewer": "true",
+      "CloudFront-Is-Mobile-Viewer": "false",
+      "CloudFront-Is-SmartTV-Viewer": "false",
+      "CloudFront-Is-Tablet-Viewer": "false",
+      "CloudFront-Viewer-Country": "US",
+      "dnt": "1",
+      "Host": "fzrcajxsxe.execute-api.us-east-1.amazonaws.com",
+      "sec-fetch-dest": "document",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-site": "none",
+      "sec-fetch-user": "?1",
+      "upgrade-insecure-requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
+      "Via": "2.0 ba75c7fb6b554536a3cda043ebcad6de.cloudfront.net (CloudFront)",
+      "X-Amz-Cf-Id": "fXXCqsAU1HgdnQdlfSMunqxp_bf0vSnt9D_ZxR_2h8ACiEG8GcnWDQ==",
+      "X-Amzn-Trace-Id": "Root=1-5ff76235-445bef597ba5625d3880c52b",
+      "X-Forwarded-For": "76.184.56.251, 70.132.6.84",
+      "X-Forwarded-Port": "443",
+      "X-Forwarded-Proto": "https"
+    },
+    "multiValueHeaders": {
+      "Accept": [
+        "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+      ],
+      "Accept-Encoding": [
+        "gzip, deflate, br"
+      ],
+      "Accept-Language": [
+        "en-US,en;q=0.9"
+      ],
+      "CloudFront-Forwarded-Proto": [
+        "https"
+      ],
+      "CloudFront-Is-Desktop-Viewer": [
+        "true"
+      ],
+      "CloudFront-Is-Mobile-Viewer": [
+        "false"
+      ],
+      "CloudFront-Is-SmartTV-Viewer": [
+        "false"
+      ],
+      "CloudFront-Is-Tablet-Viewer": [
+        "false"
+      ],
+      "CloudFront-Viewer-Country": [
+        "US"
+      ],
+      "dnt": [
+        "1"
+      ],
+      "Host": [
+        "fzrcajxsxe.execute-api.us-east-1.amazonaws.com"
+      ],
+      "sec-fetch-dest": [
+        "document"
+      ],
+      "sec-fetch-mode": [
+        "navigate"
+      ],
+      "sec-fetch-site": [
+        "none"
+      ],
+      "sec-fetch-user": [
+        "?1"
+      ],
+      "upgrade-insecure-requests": [
+        "1"
+      ],
+      "User-Agent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+      ],
+      "Via": [
+        "2.0 ba75c7fb6b554536a3cda043ebcad6de.cloudfront.net (CloudFront)"
+      ],
+      "X-Amz-Cf-Id": [
+        "fXXCqsAU1HgdnQdlfSMunqxp_bf0vSnt9D_ZxR_2h8ACiEG8GcnWDQ=="
+      ],
+      "X-Amzn-Trace-Id": [
+        "Root=1-5ff76235-445bef597ba5625d3880c52b"
+      ],
+      "X-Forwarded-For": [
+        "76.184.56.251, 70.132.6.84"
+      ],
+      "X-Forwarded-Port": [
+        "443"
+      ],
+      "X-Forwarded-Proto": [
+        "https"
+      ]
+    },
+    "queryStringParameters": null,
+    "multiValueQueryStringParameters": null,
+    "pathParameters": null,
+    "stageVariables": null,
+    "requestContext": {
+      "resourceId": "7oo0s2",
+      "resourcePath": "/item",
+      "httpMethod": "GET",
+      "extendedRequestId": "YyxIYGjoIAMFjKA=",
+      "requestTime": "07/Jan/2021:19:34:13 +0000",
+      "path": "/dev/item",
+      "accountId": "248831772506",
+      "protocol": "HTTP/1.1",
+      "stage": "dev",
+      "domainPrefix": "fzrcajxsxe",
+      "requestTimeEpoch": 1610048053515,
+      "requestId": "82e42678-60ad-4541-946c-23dd3b0d0758",
+      "identity": {
+        "cognitoIdentityPoolId": null,
+        "accountId": null,
+        "cognitoIdentityId": null,
+        "caller": null,
+        "sourceIp": "76.184.56.251",
+        "principalOrgId": null,
+        "accessKey": null,
+        "cognitoAuthenticationType": null,
+        "cognitoAuthenticationProvider": null,
+        "userArn": null,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
+        "user": null
+      },
+      "domainName": "fzrcajxsxe.execute-api.us-east-1.amazonaws.com",
+      "apiId": "fzrcajxsxe"
+    },
+    "body": null,
+    "isBase64Encoded": false
+  }
+}
